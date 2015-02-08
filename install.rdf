@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <RDF xmlns="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:em="http://www.mozilla.org/2004/em-rdf#">
   <Description about="urn:mozilla:install-manifest">
-    <em:id>verticaltabs@mozilla.com</em:id>
+    <em:id>verticaltabs@infernozeus</em:id>
     <em:type>2</em:type>
     <em:bootstrap>true</em:bootstrap>
     <em:name>Vertical Tabs</em:name>
     <em:version>0.2</em:version>
-    <em:homepageURL>https://github.com/darrinhenein/VerticalTabs</em:homepageURL>
-    <em:creator>Vlad Vukicevic</em:creator>
+    <em:homepageURL>https://github.com/InfernoZeus/VerticalTabs</em:homepageURL>
+    <em:creator>Ben Fox-Moore</em:creator>
+    <em:contributor>Vlad Vukicevic</em:contributor>
     <em:contributor>Darrin Henein</em:contributor>
     <em:contributor>Philipp von Weitershausen (original author)</em:contributor>
     <em:contributor>SHIMODA Hiroshi (creator of Tree Style Tab)</em:contributor>
